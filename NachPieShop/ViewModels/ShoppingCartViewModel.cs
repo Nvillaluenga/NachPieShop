@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using BethanysPieShop.Models;
+using NachPieShop.Models;
 
-namespace BethanysPieShop.ViewModels
+namespace NachPieShop.ViewModels
 {
     public class ShoppingCartViewModel
     {

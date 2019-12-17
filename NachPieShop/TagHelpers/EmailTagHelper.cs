@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Razor.TagHelpers;
 
-namespace BethanysPieShop.TagHelpers
+namespace NachPieShop.TagHelpers
 {
     public class EmailTagHelper : TagHelper
     {
